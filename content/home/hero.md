@@ -12,6 +12,7 @@ design:
 cta_alt:
   url: docs/
   label: Entry
+  
 ---
 
 <!--Published with the [Wowchemy Website Builder](https://sourcethemes.com/academic/) for Hugo.-->
