@@ -4,6 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
- name = "JackBook"
+ name = "Jack's Book"
  url = ""
  weight = 10
