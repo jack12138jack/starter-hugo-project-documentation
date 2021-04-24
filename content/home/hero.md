@@ -16,7 +16,7 @@ design:
   icon: download-->
 cta_alt:
   url: docs/
-  label: View Documentation
+  label: Entry
 <!--
 cta_note:
   label: >-
