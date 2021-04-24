@@ -7,14 +7,14 @@ subtitle: Document _anything_ ✨
 feature:
   - icon: book-open
     icon_pack: fas
-    name: Project Documentation
-    description: For users
-  - icon: question
+    name: AI
+    description: For Jack
+  - icon: book-open
     icon_pack: fas
-    name: Knowledge Base
-    description: For teams
-  - icon: list-alt
+    name: CV
+    description: For Jack
+  - icon: book-open
     icon_pack: fas
-    name: Personal Notebook
-    description: For yourself
+    name: NN
+    description: For Jack
 ---
