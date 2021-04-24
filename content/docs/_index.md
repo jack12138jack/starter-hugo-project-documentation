@@ -1,7 +1,7 @@
 ---
-title: Docs
+title: Jack
 type: book  # Do not modify.
 toc: false
 ---
 
-Welcome to the _book_ template!
+Welcome to Jack's Zone.
