@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Life is a book
-hero_media: jack.png
+title: Book Template
+hero_media: book.svg
 design:
   background:
     gradient_start: '#4bb4e3'
@@ -17,11 +17,15 @@ cta:
 cta_alt:
   url: docs/
   label: View Documentation
+cta_note:
+  label: >-
+    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
+      Show your product version here:<!-- Automatically filled based on data-repo value -->
+    </span>
 ---
 
-<!--Published with the [Wowchemy Website Builder](https://sourcethemes.com/academic/) for Hugo.-->
+Published with the [Wowchemy Website Builder](https://sourcethemes.com/academic/) for Hugo.
 
-<!--Write something interesting about your project here.-->
-Welcome to Jack's Zone.
+Write something interesting about your project here.
 
-<!-- <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-book" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Book template">Star the Book template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
+<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-book" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Book template">Star the Book template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
